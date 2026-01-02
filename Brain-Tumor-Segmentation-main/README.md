@@ -47,7 +47,7 @@ The goal of this project is to propose a lightweight U-Net model to:
 ## 🚀 **How to Run**  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/utsavmodi7777-oss/brain-tumor-segmant.git  
+   git  https://github.com/utsavmodi7777-oss/brain-tumor-segmant.git  
    ```  
 
 2. Open the Jupyter Notebook:  
@@ -80,7 +80,6 @@ The goal of this project is to propose a lightweight U-Net model to:
 ## 🤝 **Collaborations & Opportunities**  
 I am looking for opportunities in **Machine Learning** and **Data Science**, particularly in domains that require deep learning expertise for solving real-world problems.  
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vedantpancholi/)   
 
 ---
 
